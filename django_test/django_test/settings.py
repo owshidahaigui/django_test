@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'pic'
+    'pic',
+    'django_crontab'
 ]
 
 MIDDLEWARE = [
@@ -129,3 +130,7 @@ STATICFILES_DIRS=[
 #设置文件上传默认路径
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'image/')
+
+CRONJOBS=[
+    ('* * * * *','pic.core.task','>>' + os.path.join(BASE_DIR, 'logs/crons.log'))
+]
