@@ -136,13 +136,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566027757060</updated>
+<<<<<<< HEAD
+      <workItem from="1566027759695" duration="9911000" />
+=======
       <workItem from="1566027759695" duration="9174000" />
       <workItem from="1566100972935" duration="4084000" />
       <workItem from="1566139421966" duration="3401000" />
+<<<<<<< HEAD
       <workItem from="1566227117055" duration="1232000" />
       <workItem from="1566483239434" duration="600000" />
       <workItem from="1566573715368" duration="679000" />
       <workItem from="1566610844801" duration="80000" />
+=======
+>>>>>>> 560850391542bd3657f690be69dc8d916e95edcc
+>>>>>>> 2c5ad439c82fa2737dde1beb2e01321abb8afe65
     </task>
     <servers />
   </component>
@@ -154,9 +161,13 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
+            <State />
+=======
             <State>
               <option name="COLUMN_ORDER" />
             </State>
+>>>>>>> 560850391542bd3657f690be69dc8d916e95edcc
           </value>
         </entry>
       </map>
