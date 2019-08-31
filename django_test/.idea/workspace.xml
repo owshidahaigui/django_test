@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d8ff993-07d5-4c33-abb3-e68c46efeb8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/crons.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pic/core.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_test/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pic/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,6 +139,10 @@
       <workItem from="1566027759695" duration="9174000" />
       <workItem from="1566100972935" duration="4084000" />
       <workItem from="1566139421966" duration="3401000" />
+      <workItem from="1566227117055" duration="1232000" />
+      <workItem from="1566483239434" duration="600000" />
+      <workItem from="1566573715368" duration="679000" />
+      <workItem from="1566610844801" duration="80000" />
     </task>
     <servers />
   </component>
